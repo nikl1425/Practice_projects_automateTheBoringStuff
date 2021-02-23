@@ -29,6 +29,7 @@ grid = [['.', '.', '.', '.', '.', '.'],
         ['.', '.', '.', '.', '.', '.']]
 
 print(len(grid))
+print(len(grid[0]))
 
 
 def draw_rotated_grid(matrix):
